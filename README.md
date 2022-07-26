@@ -1,5 +1,5 @@
 # RAIR-Lab-Bingo
-A comedic bingo web application for the RAIR-Lab at RPI
+A comedic bingo web application for the RAIR-Lab at RPI. 
 
 # Use
 Can be ran as a simple localhost web app with python 3 by running 
