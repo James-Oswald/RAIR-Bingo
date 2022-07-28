@@ -1,5 +1,5 @@
 # RAIR-Lab-Bingo
-A comedic bingo web application for the RAIR-Lab at RPI. 
+A comedic bingo web application for the RAIR-Lab at RPI. This is a rework of SUNY Albany Impeachment Bingo from 2018
 
 # Use
 Can be ran as a simple localhost web app with python 3 by running 
