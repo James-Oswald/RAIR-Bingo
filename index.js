@@ -2,20 +2,16 @@
 
 let boxs = [
 	"Discussion about transportation",
-	"Something about COVID testing",
-	"Masking will stop soon! -Selmer",
 	"People are not turing machines!",
 	"Anything about Hyperslate",
 	"Presentation is done in Keynote",
 	"Crippling AV issues",
 	"\"Is he actually a PhD student?\"",
-	"*Silence* -Aiden",
 	"Something about bibliography -Selmer",
 	"Selmer mentions Naveen in positive light",
 	"James says he stayed up all night",
 	"Brandon mentions IBM",
 	"James complains that something isn't real",
-	"*Fakes demo*",
 	"Someone writes a 5 line algorithm",
 	"Selmer raises Eyebrows",
 	"NATURAL LANGUAGE -anyone",
@@ -29,7 +25,12 @@ let boxs = [
 	"OUR Closet is accessed",
 	"McGuiness is hacking at life -James",
 	"Anyone complains about connectionist systems",
-	"Someone complains they want RA funding"
+	"Someone complains they want RA funding",
+	"Someone finds out John is in a new club",
+	"James mentions description logics",
+	"Proof theoretic semantics",
+	"There are dead bugs on the main confrence table",
+	"The confrence room is occupied by a 3rd party",
 ];
 
 function set(e){
